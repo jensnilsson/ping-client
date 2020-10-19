@@ -1,0 +1,10 @@
+[package]
+name = "mock-client"
+version = "0.1.0"
+authors = ["Jens Nilsson <jens.erik.nilsson@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+zmq = "0.9"
