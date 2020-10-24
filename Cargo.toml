@@ -1,5 +1,5 @@
 [package]
-name = "mock-client"
+name = "ping-client"
 version = "0.1.0"
 authors = ["Jens Nilsson <jens.erik.nilsson@gmail.com>"]
 edition = "2018"
